@@ -24,7 +24,4 @@ class Person:
 
 
 
-canh
-
-
 
