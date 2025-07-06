@@ -5,10 +5,7 @@ age = int(input("ban bao nhieu tuoi: "))
 print('cach1: chao ban %s,ban %d tuoi ha?, nam sau ban %d tuoi'%(name, age, age +1))
 print('cach2: chao ban {0},ban {1} tuoi ha ?'.format(name,age))
 print('')
-print('canh')
-print('canh1')
-print('canh2')
-print('canh2')
+
 
 #tinh dien tich va chu vi hinh chu nhat
 # nhap chieu dai chieu rong tu banphim
