@@ -8,6 +8,7 @@ print('')
 print('canh')
 print('canh1')
 print('canh2')
+print('canh2')
 
 #tinh dien tich va chu vi hinh chu nhat
 # nhap chieu dai chieu rong tu banphim
