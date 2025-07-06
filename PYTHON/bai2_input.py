@@ -7,6 +7,7 @@ print('cach2: chao ban {0},ban {1} tuoi ha ?'.format(name,age))
 print('')
 print('canh')
 print('canh1')
+print('canh2')
 
 #tinh dien tich va chu vi hinh chu nhat
 # nhap chieu dai chieu rong tu banphim
